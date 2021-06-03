@@ -21,6 +21,19 @@ As a developer, you will be writing tests for every component. As we've learned,
 
 ***Make sure to complete your tasks one at a time and complete test each task before proceding forward.***
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Instructions
 ### Task 1: Project Set Up
 * [ ] Create a forked copy of this project.
